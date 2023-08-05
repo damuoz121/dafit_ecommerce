@@ -45,3 +45,8 @@ app.*.map.json
 
 # Imagenes Propias
 /assets/images/Sekerme.png
+
+#Supabase config
+#.env file
+/assets/global/.env
+
